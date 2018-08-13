@@ -1,0 +1,8 @@
+div.person {
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 2px #ccc;
+  padding : 10 px;
+  text-align: center;
+  margin : 16px;
+
+}
